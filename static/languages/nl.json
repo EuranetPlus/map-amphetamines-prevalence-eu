@@ -1,11 +1,13 @@
 {
-  "title": "Prevalentie van amfetaminen in de EU-bevolking",
-  "subtitle": "Aandeel amfetaminegebruik in de Europese Unie in 2024 onder de Europese bevolking van 15 tot 64 jaar (of meest recente beschikbare gegevens)",
+  "title": "Hoeveel mensen in de EU gebruiken amfetaminen?",
+  "subtitle": "Aandeel van het gebruik van amfetamine en synthetische drugs in de Europese Unie onder de bevolking van 15 tot 64 jaar in 2024 (of recentere gegevens).",
   "textNoteDescription": "Opmerking",
   "textNote": "De enquêtegegevens voor Kroatië zijn van 2015, voor Portugal van 2016, voor België van 2018 en voor Luxemburg van 2019. Er zijn geen gegevens beschikbaar voor Griekenland.",
   "textSourceDescription": "Bron",
   "textSource": "Geneesmiddelenagentschap van de Europese Unie",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_AT": "Enquêtejaar: 2022",
   "extraInfo_BE": "Enquêtejaar: 2018",
   "extraInfo_BG": "Enquêtejaar: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Enquêtejaar: 2023",
   "extraInfo_HU": "Enquêtejaar: 2023",
   "extraInfo_IE": "Enquêtejaar: 2023",
-  "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "van volwassenen",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "customUnitLabel": "van volwassenen"
 }

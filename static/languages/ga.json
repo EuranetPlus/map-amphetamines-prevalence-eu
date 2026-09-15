@@ -1,11 +1,13 @@
 {
-  "title": "Leitheadúlacht amfataimíní i measc dhaonra an AE",
-  "subtitle": "Sciar úsáide amfataimíne san Aontas Eorpach in 2024 i measc dhaonra na hEorpa idir 15 agus 64 bliana d'aois (nó na sonraí is déanaí atá ar fáil)",
+  "title": "Cé mhéad duine san AE a úsáideann amfataimíní?",
+  "subtitle": "Sciar úsáide amfataimíní agus drugaí sintéiseacha san Aontas Eorpach i measc an daonra idir 15 agus 64 bliana d'aois in 2024 (nó sonraí níos déanaí).",
   "textNoteDescription": "Nóta",
   "textNote": "Is ón mbliain 2015 atá sonraí suirbhé na Cróite, ón mbliain 2016 don Phortaingéil, ón mbliain 2018 don Bheilg agus ón mbliain 2019 don Lucsamburg. Níl aon sonraí ar fáil don Ghréig.",
   "textSourceDescription": "Foinse",
   "textSource": "Gníomhaireacht Drugaí an Aontais Eorpaigh",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_AT": "Bliain suirbhé: 2022",
   "extraInfo_BE": "Bliain an tsuirbhé: 2018",
   "extraInfo_BG": "Bliain suirbhé: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Bliain suirbhé: 2023",
   "extraInfo_HU": "Bliain suirbhé: 2023",
   "extraInfo_IE": "Bliain suirbhé: 2023",
-  "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "de dhaoine fásta",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "customUnitLabel": "de dhaoine fásta"
 }

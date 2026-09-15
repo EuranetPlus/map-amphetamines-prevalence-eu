@@ -1,11 +1,13 @@
 {
-  "title": "Az amfetaminok előfordulása az EU lakosságában",
-  "subtitle": "Az amfetamin-használat aránya az Európai Unióban 2024-ben a 15 és 64 év közötti európai lakosság körében (vagy a legfrissebb rendelkezésre álló adatok)",
+  "title": "Hányan fogyasztanak amfetamint az EU-ban?",
+  "subtitle": "Az amfetamin és a szintetikus kábítószer-használat aránya az Európai Unióban a 15 és 64 év közötti lakosság körében 2024-ben (vagy újabb adatok).",
   "textNoteDescription": "Jegyzet",
   "textNote": "Horvátország felmérési adatai 2015-ből, Portugália esetében 2016-ból, Belgium esetében 2018-ból, Luxemburg esetében pedig 2019-ből származnak. Görögországról nem állnak rendelkezésre adatok.",
   "textSourceDescription": "Forrás",
   "textSource": "Európai Unió Gyógyszerügynöksége",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_AT": "Felmérés éve: 2022",
   "extraInfo_BE": "Felmérés éve: 2018",
   "extraInfo_BG": "Felmérés éve: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Felmérés éve: 2023",
   "extraInfo_HU": "Felmérés éve: 2023",
   "extraInfo_IE": "Felmérés éve: 2023",
-  "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "felnőttek",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "customUnitLabel": "felnőttek"
 }

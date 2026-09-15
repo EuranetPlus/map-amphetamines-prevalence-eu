@@ -1,11 +1,13 @@
 {
-  "title": "Prävalenz von Amphetaminen in der EU-Bevölkerung",
-  "subtitle": "Anteil des Amphetaminkonsums in der Europäischen Union im Jahr 2024 an der europäischen Bevölkerung im Alter von 15 bis 64 Jahren (oder die aktuellsten verfügbaren Daten)",
+  "title": "Wie viele Menschen in der EU konsumieren Amphetamine?",
+  "subtitle": "Anteil des Amphetamin- und synthetischen Drogenkonsums in der Europäischen Union an der Bevölkerung im Alter von 15 bis 64 Jahren im Jahr 2024 (oder aktuellere Daten).",
   "textNoteDescription": "Notiz",
   "textNote": "Die Umfragedaten für Kroatien stammen aus dem Jahr 2015, für Portugal aus dem Jahr 2016, für Belgien aus dem Jahr 2018 und für Luxemburg aus dem Jahr 2019. Für Griechenland liegen keine Daten vor.",
   "textSourceDescription": "Quelle",
   "textSource": "Europäische Arzneimittelbehörde",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_AT": "Erhebungsjahr: 2022",
   "extraInfo_BE": "Erhebungsjahr: 2018",
   "extraInfo_BG": "Erhebungsjahr: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Erhebungsjahr: 2023",
   "extraInfo_HU": "Erhebungsjahr: 2023",
   "extraInfo_IE": "Erhebungsjahr: 2023",
-  "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "von Erwachsenen",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "customUnitLabel": "von Erwachsenen"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Prevalencija amfetamina u stanovništvu EU",
-  "subtitle": "Udio uporabe amfetamina u Europskoj uniji u 2024. među europskim stanovništvom u dobi od 15 do 64 godine (ili najnoviji dostupni podaci)",
+  "title": "Koliko ljudi u EU konzumira amfetamine?",
+  "subtitle": "Udio uporabe amfetamina i sintetičkih droga u Europskoj uniji među stanovništvom u dobi od 15 do 64 godine u 2024. (ili noviji podaci).",
   "textNoteDescription": "Bilješka",
   "textNote": "Podaci ankete za Hrvatsku su iz 2015., za Portugal iz 2016., za Belgiju iz 2018. i za Luksemburg iz 2019. Za Grčku nema dostupnih podataka.",
   "textSourceDescription": "Izvor",
   "textSource": "Agencija Europske unije za lijekove",
   "linkDataAccessDescription": "Pristup podacima",
+  "legend1": "Nema dostupnih podataka",
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
   "extraInfo_AT": "Godina istraživanja: 2022.",
   "extraInfo_BE": "Godina istraživanja: 2018.",
   "extraInfo_BG": "Godina istraživanja: 2024.",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Godina istraživanja: 2023.",
   "extraInfo_HU": "Godina istraživanja: 2023.",
   "extraInfo_IE": "Godina istraživanja: 2023.",
-  "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "odraslih",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "customUnitLabel": "odraslih"
 }

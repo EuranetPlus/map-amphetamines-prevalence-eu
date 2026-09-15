@@ -1,11 +1,13 @@
 {
-  "title": "Prevalência de anfetaminas na população da UE",
-  "subtitle": "Proporção do consumo de anfetaminas na União Europeia em 2024 entre a população europeia com idades entre 15 e 64 anos (ou os dados mais recentes disponíveis).",
+  "title": "Quantas pessoas na UE consomem anfetaminas?",
+  "subtitle": "Proporção do consumo de anfetaminas e drogas sintéticas na União Europeia entre a população de 15 a 64 anos em 2024 (ou dados mais recentes).",
   "textNoteDescription": "Observação",
   "textNote": "Os dados da pesquisa para a Croácia são de 2015, para Portugal de 2016, para a Bélgica de 2018 e para Luxemburgo de 2019. Não há dados disponíveis para a Grécia.",
   "textSourceDescription": "Fonte",
   "textSource": "Agência Europeia de Medicamentos",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_AT": "Ano da pesquisa: 2022",
   "extraInfo_BE": "Ano da pesquisa: 2018",
   "extraInfo_BG": "Ano da pesquisa: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Ano da pesquisa: 2023",
   "extraInfo_HU": "Ano da pesquisa: 2023",
   "extraInfo_IE": "Ano da pesquisa: 2023",
-  "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "de adultos",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "customUnitLabel": "de adultos"
 }

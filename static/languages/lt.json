@@ -1,11 +1,13 @@
 {
-  "title": "Amfetaminų paplitimas ES gyventojų tarpe",
-  "subtitle": "Amfetamino vartojimo dalis Europos Sąjungoje 2024 m. tarp 15–64 metų amžiaus Europos gyventojų (arba naujausi turimi duomenys)",
+  "title": "Kiek žmonių ES vartoja amfetaminus?",
+  "subtitle": "Amfetamino ir sintetinių narkotikų vartojimo dalis Europos Sąjungoje tarp 15–64 metų amžiaus gyventojų 2024 m. (arba naujesni duomenys).",
   "textNoteDescription": "Pastaba",
   "textNote": "Kroatijos apklausos duomenys yra iš 2015 m., Portugalijos – iš 2016 m., Belgijos – iš 2018 m., o Liuksemburgo – iš 2019 m. Graikijos duomenų nėra.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos Sąjungos vaistų agentūra",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "legend1": "Nėra duomenų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
   "extraInfo_AT": "Apklausos metai: 2022",
   "extraInfo_BE": "Apklausos metai: 2018 m.",
   "extraInfo_BG": "Apklausos metai: 2024 m.",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Apklausos metai: 2023 m.",
   "extraInfo_HU": "Apklausos metai: 2023 m.",
   "extraInfo_IE": "Apklausos metai: 2023 m.",
-  "legend1": "Nėra duomenų",
-  "customUnitLabel": "suaugusiųjų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "customUnitLabel": "suaugusiųjų"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Prevalența amfetaminelor în populația UE",
-  "subtitle": "Ponderea consumului de amfetamină în Uniunea Europeană în 2024 în rândul populației europene cu vârsta cuprinsă între 15 și 64 de ani (sau cele mai recente date disponibile)",
+  "title": "Câți oameni din UE consumă amfetamine?",
+  "subtitle": "Ponderea consumului de amfetamină și droguri sintetice în Uniunea Europeană în rândul populației cu vârsta cuprinsă între 15 și 64 de ani în 2024 (sau date mai recente).",
   "textNoteDescription": "Nota",
   "textNote": "Datele sondajului pentru Croația sunt din 2015, pentru Portugalia din 2016, pentru Belgia din 2018 și pentru Luxemburg din 2019. Nu sunt disponibile date pentru Grecia.",
   "textSourceDescription": "Sursă",
   "textSource": "Agenția Uniunii Europene pentru Medicamente",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_AT": "Anul sondajului: 2022",
   "extraInfo_BE": "Anul sondajului: 2018",
   "extraInfo_BG": "Anul sondajului: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Anul sondajului: 2023",
   "extraInfo_HU": "Anul sondajului: 2023",
   "extraInfo_IE": "Anul sondajului: 2023",
-  "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "adulților",
-  "tooltipExtraInfoLabel": "Click aici"
+  "customUnitLabel": "adulților"
 }

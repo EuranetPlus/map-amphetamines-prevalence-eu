@@ -1,11 +1,13 @@
 {
-  "title": "Amfetamiinien esiintyvyys EU:n väestössä",
-  "subtitle": "Amfetamiinin käytön osuus Euroopan unionissa vuonna 2024 15–64-vuotiaiden eurooppalaisten keskuudessa (tai uusimmat saatavilla olevat tiedot)",
+  "title": "Kuinka moni EU:ssa käyttää amfetamiineja?",
+  "subtitle": "Amfetamiinin ja synteettisten huumeiden käytön osuus Euroopan unionissa 15–64-vuotiaan väestön keskuudessa vuonna 2024 (tai uudemmat tiedot).",
   "textNoteDescription": "Huomautus",
   "textNote": "Kroatian kyselytiedot ovat vuodelta 2015, Portugalin vuodelta 2016, Belgian vuodelta 2018 ja Luxemburgin vuodelta 2019. Kreikasta ei ole saatavilla tietoja.",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan unionin lääkevirasto",
   "linkDataAccessDescription": "Käytä tietoja",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
   "extraInfo_AT": "Kyselyvuosi: 2022",
   "extraInfo_BE": "Kyselyvuosi: 2018",
   "extraInfo_BG": "Kyselyvuosi: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Kyselyvuosi: 2023",
   "extraInfo_HU": "Kyselyvuosi: 2023",
   "extraInfo_IE": "Kyselyvuosi: 2023",
-  "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "aikuisista",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "customUnitLabel": "aikuisista"
 }

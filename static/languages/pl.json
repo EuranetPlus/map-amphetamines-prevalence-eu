@@ -1,11 +1,13 @@
 {
-  "title": "Rozpowszechnienie amfetamin w populacji UE",
-  "subtitle": "Udział używania amfetaminy w Unii Europejskiej w 2024 r. wśród populacji europejskiej w wieku 15–64 lat (lub najnowsze dostępne dane)",
+  "title": "Ile osób w UE zażywa amfetaminę?",
+  "subtitle": "Udział zażywania amfetaminy i narkotyków syntetycznych w populacji Unii Europejskiej w wieku od 15 do 64 lat w 2024 r. (lub nowsze dane).",
   "textNoteDescription": "Notatka",
   "textNote": "Dane z badania dla Chorwacji pochodzą z 2015 r., dla Portugalii z 2016 r., dla Belgii z 2018 r., a dla Luksemburga z 2019 r. Brak dostępnych danych dla Grecji.",
   "textSourceDescription": "Źródło",
   "textSource": "Agencja Unii Europejskiej ds. Leków",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_AT": "Rok badania: 2022",
   "extraInfo_BE": "Rok badania: 2018",
   "extraInfo_BG": "Rok badania: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Rok badania: 2023",
   "extraInfo_HU": "Rok badania: 2023",
   "extraInfo_IE": "Rok badania: 2023",
-  "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "dorosłych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "customUnitLabel": "dorosłych"
 }

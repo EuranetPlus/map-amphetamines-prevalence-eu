@@ -1,11 +1,13 @@
 {
-  "title": "Prévalence des amphétamines dans la population de l'UE",
-  "subtitle": "Part de la consommation d'amphétamines dans l'Union européenne en 2024 parmi la population européenne âgée de 15 à 64 ans (ou données les plus récentes disponibles)",
+  "title": "Combien de personnes dans l'UE consomment des amphétamines ?",
+  "subtitle": "Part de la consommation d'amphétamines et de drogues de synthèse dans l'Union européenne parmi la population âgée de 15 à 64 ans en 2024 (ou données plus récentes).",
   "textNoteDescription": "Note",
   "textNote": "Les données d'enquête pour la Croatie datent de 2015, pour le Portugal de 2016, pour la Belgique de 2018 et pour le Luxembourg de 2019. Aucune donnée n'est disponible pour la Grèce.",
   "textSourceDescription": "Source",
   "textSource": "Agence européenne des médicaments",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_AT": "Année de l'enquête : 2022",
   "extraInfo_BE": "Année de l'enquête : 2018",
   "extraInfo_BG": "Année de l'enquête : 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Année de l'enquête : 2023",
   "extraInfo_HU": "Année de l'enquête : 2023",
   "extraInfo_IE": "Année de l'enquête : 2023",
-  "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "adultes",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "customUnitLabel": "adultes"
 }

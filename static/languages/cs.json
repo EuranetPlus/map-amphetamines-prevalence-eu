@@ -1,11 +1,13 @@
 {
-  "title": "Prevalence amfetaminů v populaci EU",
-  "subtitle": "Podíl užívání amfetaminu v Evropské unii v roce 2024 mezi evropskou populací ve věku 15 až 64 let (nebo nejnovější dostupné údaje)",
+  "title": "Kolik lidí v EU užívá amfetaminy?",
+  "subtitle": "Podíl užívání amfetaminu a syntetických drog v Evropské unii mezi obyvatelstvem ve věku 15 až 64 let v roce 2024 (nebo novější údaje).",
   "textNoteDescription": "Poznámka",
-  "textNote": "Data z průzkumu pro Chorvatsko jsou z roku 2015, pro Portugalsko z roku 2016, pro Belgii z roku 2018 a pro Lucembursko z roku 2019. Pro Řecko nejsou k dispozici žádná data.",
+  "textNote": "Data z průzkumu pro Chorvatsko pocházejí z roku 2015, pro Portugalsko z roku 2016, pro Belgii z roku 2018 a pro Lucembursko z roku 2019. Pro Řecko nejsou k dispozici žádná data.",
   "textSourceDescription": "Zdroj",
   "textSource": "Agentura Evropské unie pro léčivé přípravky",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Žádné údaje k dispozici",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_AT": "Rok průzkumu: 2022",
   "extraInfo_BE": "Rok průzkumu: 2018",
   "extraInfo_BG": "Rok průzkumu: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Rok průzkumu: 2023",
   "extraInfo_HU": "Rok průzkumu: 2023",
   "extraInfo_IE": "Rok průzkumu: 2023",
-  "legend1": "Nejsou k dispozici žádná data",
-  "customUnitLabel": "dospělých",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "customUnitLabel": "dospělých"
 }

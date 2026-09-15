@@ -1,11 +1,13 @@
 {
-  "title": "Prevalenza di anfetamine nella popolazione dell'UE",
-  "subtitle": "Quota di consumo di anfetamine nell'Unione Europea nel 2024 tra la popolazione europea di età compresa tra 15 e 64 anni (o dati più recenti disponibili)",
+  "title": "Quante persone nell'UE consumano anfetamine?",
+  "subtitle": "Percentuale di consumo di anfetamine e droghe sintetiche nell'Unione Europea tra la popolazione di età compresa tra 15 e 64 anni nel 2024 (o dati più recenti).",
   "textNoteDescription": "Nota",
   "textNote": "I dati del sondaggio per la Croazia risalgono al 2015, per il Portogallo al 2016, per il Belgio al 2018 e per il Lussemburgo al 2019. Non sono disponibili dati per la Grecia.",
   "textSourceDescription": "Fonte",
   "textSource": "Agenzia europea per i medicinali",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_AT": "Anno del sondaggio: 2022",
   "extraInfo_BE": "Anno del sondaggio: 2018",
   "extraInfo_BG": "Anno del sondaggio: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Anno del sondaggio: 2023",
   "extraInfo_HU": "Anno del sondaggio: 2023",
   "extraInfo_IE": "Anno del sondaggio: 2023",
-  "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "Di adulti",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "customUnitLabel": "Di adulti"
 }

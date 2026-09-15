@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "Prevalence of amphetamines in the EU population",
-  "subtitle": "Share of amphetamine use in the European Union in 2024 among the European population aged 15 to 64 (or most recent data available)",
+  "title": "How many people in the EU consume amphetamines?",
+  "subtitle": "Share of amphetamine and synthetic drug use in the European Union among the population aged 15 to 64 in 2024 (or more recent data).",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,0.012,TRUE,\"Survey year: 2022\",,,,,,,,\nBelgium,BE,0.005,TRUE,\"Survey year: 2018\",,,,,,,,\nBulgaria,BG,0.035,TRUE,\"Survey year: 2024\",,,,,,,,\nCyprus,CY,0.005,TRUE,\"Survey year: 2022\",,,,,,,,\nCzechia,CZ,0.007,TRUE,\"Survey year: 2023\",,,,,,,,\nGermany,DE,0.007,TRUE,\"Survey year: 2024\",,,,,,,,\nDenmark,DK,0.006,TRUE,\"Survey year: 2023\",,,,,,,,\nEstonia,EE,0.018,TRUE,\"Survey year: 2023\",,,,,,,,\nSpain,ES,0.006,TRUE,\"Survey year: 2024\",,,,,,,,\nFinland,FI,0.023,TRUE,\"Survey year: 2022\",,,,,,,,\nFrance,FR,0.006,TRUE,\"Survey year: 2023\",,,,,,,,\nCroatia,HR,0.010,TRUE,\"Survey year: 2015\",,,,,,,,\nItaly,IT,0.007,TRUE,\"Survey year: 2022\",,,,,,,,\nLithuania,LT,0.002,TRUE,\"Survey year: 2021\",,,,,,,,\nLuxembourg,LU,0.001,TRUE,\"Survey year: 2019\",,,,,,,,\nLatvia,LV,0.006,TRUE,\"Survey year: 2020\",,,,,,,,\nMalta,MT,0.001,TRUE,\"Survey year: 2023\",,,,,,,,\nNetherlands,NL,0.016,TRUE,\"Survey year: 2024\",,,,,,,,\nPoland,PL,0.007,TRUE,\"Survey year: 2024\",,,,,,,,\nPortugal,PT,0.000,TRUE,\"Survey year: 2016\",,,,,,,,\nRomania,RO,0.005,TRUE,\"Survey year: 2024\",,,,,,,,\nSweden,SE,0.007,TRUE,\"Survey year: 2021\",,,,,,,,\nSlovenia,SI,0.005,TRUE,\"Survey year: 2023\",,,,,,,,\nSlovakia,SK,0.001,TRUE,\"Survey year: 2023\",,,,,,,,\nHungary,HU,0.001,TRUE,\"Survey year: 2023\",,,,,,,,\nIreland,IE,0.004,TRUE,\"Survey year: 2023\",,,,,,,,",
   "parsedData": [
@@ -413,7 +414,7 @@ export const mapConfig = writable({
   "textSource": "European Union Drug Agency",
   "textNoteAvailable": true,
   "textNoteDescription": "Note",
-  "textNote": "Survey data for Croatia are from 2015, for Portugal from 2016, for Belgium from 2018 and for Luxembourg from 2019. No data are available for Greece.",
+  "textNote": "Survey data for Croatia is from 2015, for Portugal from 2016, for Belgium from 2018 and for Luxembourg from 2019. No data are available for Greece.",
   "textDataAccessAvailable": true,
   "linkDataAccessDescription": "Access the data",
   "linkDataAccess": "https://d9www.euda.europa.eu/publications/european-drug-report/2026/synthetic-stimulants_en",
@@ -423,10 +424,10 @@ export const mapConfig = writable({
   "customUnitLabel": "of adults",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "Prevalence of amphetamines in the EU population",
-    "subtitle": "Share of amphetamine use in the European Union in 2024 among the European population aged 15 to 64 (or most recent data available)",
+    "title": "How many people in the EU consume amphetamines?",
+    "subtitle": "Share of amphetamine and synthetic drug use in the European Union among the population aged 15 to 64 in 2024 (or more recent data).",
     "textNoteDescription": "Note",
-    "textNote": "Survey data for Croatia are from 2015, for Portugal from 2016, for Belgium from 2018 and for Luxembourg from 2019. No data are available for Greece.",
+    "textNote": "Survey data for Croatia is from 2015, for Portugal from 2016, for Belgium from 2018 and for Luxembourg from 2019. No data are available for Greece.",
     "textSourceDescription": "Source",
     "textSource": "European Union Drug Agency",
     "linkDataAccessDescription": "Access the data",

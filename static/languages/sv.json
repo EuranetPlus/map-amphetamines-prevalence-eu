@@ -1,11 +1,13 @@
 {
-  "title": "Förekomst av amfetamin i EU:s befolkning",
-  "subtitle": "Andel amfetaminanvändning i Europeiska unionen år 2024 bland den europeiska befolkningen i åldern 15 till 64 år (eller senast tillgängliga uppgifter)",
+  "title": "Hur många människor i EU konsumerar amfetamin?",
+  "subtitle": "Andel amfetamin- och syntetiska drogmissbruk i Europeiska unionen bland befolkningen i åldern 15 till 64 år 2024 (eller nyare data).",
   "textNoteDescription": "Notera",
   "textNote": "Undersökningsdata för Kroatien är från 2015, för Portugal från 2016, för Belgien från 2018 och för Luxemburg från 2019. Inga data finns tillgängliga för Grekland.",
   "textSourceDescription": "Källa",
   "textSource": "Europeiska unionens läkemedelsmyndighet",
   "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här",
   "extraInfo_AT": "Undersökningsår: 2022",
   "extraInfo_BE": "Undersökningsår: 2018",
   "extraInfo_BG": "Undersökningsår: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Undersökningsår: 2023",
   "extraInfo_HU": "Undersökningsår: 2023",
   "extraInfo_IE": "Undersökningsår: 2023",
-  "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "av vuxna",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "customUnitLabel": "av vuxna"
 }

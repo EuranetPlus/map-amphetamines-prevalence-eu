@@ -1,11 +1,13 @@
 {
-  "title": "Prevalenza tal-anfetamini fil-popolazzjoni tal-UE",
-  "subtitle": "Is-sehem tal-użu tal-amfetamina fl-Unjoni Ewropea fl-2024 fost il-popolazzjoni Ewropea ta’ bejn il-15 u l-64 sena (jew l-aktar dejta reċenti disponibbli)",
+  "title": "Kemm nies fl-UE jikkunsmaw amfetamini?",
+  "subtitle": "Is-sehem tal-użu tal-amfetamina u tad-drogi sintetiċi fl-Unjoni Ewropea fost il-popolazzjoni ta’ bejn il-15 u l-64 sena fl-2024 (jew dejta aktar reċenti).",
   "textNoteDescription": "Nota",
   "textNote": "Id-dejta tal-istħarriġ għall-Kroazja hija mill-2015, għall-Portugall mill-2016, għall-Belġju mill-2018 u għal-Lussemburgu mill-2019. M'hemm l-ebda dejta disponibbli għall-Greċja.",
   "textSourceDescription": "Sors",
   "textSource": "Aġenzija tal-Unjoni Ewropea dwar id-Droga",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_AT": "Sena tal-istħarriġ: 2022",
   "extraInfo_BE": "Sena tal-istħarriġ: 2018",
   "extraInfo_BG": "Sena tal-istħarriġ: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Sena tal-istħarriġ: 2023",
   "extraInfo_HU": "Sena tal-istħarriġ: 2023",
   "extraInfo_IE": "Sena tal-istħarriġ: 2023",
-  "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "tal-adulti",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "customUnitLabel": "tal-adulti"
 }

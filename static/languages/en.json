@@ -1,11 +1,13 @@
 {
-  "title": "Prevalence of amphetamines in the EU population",
-  "subtitle": "Share of amphetamine use in the European Union in 2024 among the European population aged 15 to 64 (or most recent data available)",
+  "title": "How many people in the EU consume amphetamines?",
+  "subtitle": "Share of amphetamine and synthetic drug use in the European Union among the population aged 15 to 64 in 2024 (or more recent data).",
   "textNoteDescription": "Note",
-  "textNote": "Survey data for Croatia are from 2015, for Portugal from 2016, for Belgium from 2018 and for Luxembourg from 2019. No data are available for Greece.",
+  "textNote": "Survey data for Croatia is from 2015, for Portugal from 2016, for Belgium from 2018 and for Luxembourg from 2019. No data are available for Greece.",
   "textSourceDescription": "Source",
   "textSource": "European Union Drug Agency",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_AT": "Survey year: 2022",
   "extraInfo_BE": "Survey year: 2018",
   "extraInfo_BG": "Survey year: 2024",
@@ -32,7 +34,5 @@
   "extraInfo_SK": "Survey year: 2023",
   "extraInfo_HU": "Survey year: 2023",
   "extraInfo_IE": "Survey year: 2023",
-  "legend1": "No data available",
-  "customUnitLabel": "of adults",
-  "tooltipExtraInfoLabel": "Click here"
+  "customUnitLabel": "of adults"
 }
